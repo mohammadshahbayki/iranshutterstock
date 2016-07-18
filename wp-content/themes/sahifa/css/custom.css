@@ -1,0 +1,41 @@
+
+@font-face {
+  font-family: 'IRANSansBold';
+  font-weight: bold;
+src: url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/Iran-Sans-Bold/IRANSans-Bold.eot?#') format('eot'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/Iran-Sans-Bold/IRANSans-Bold.woff2') format('woff2'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/Iran-Sans-Bold/IRANSans-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'IRANSans';
+  font-weight: normal;
+src: url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/IRAN-Sans-normal/IRANSANSExpanded.eot?#') format('eot'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/IRAN-Sans-normal/IRANSANSExpanded.woff2') format('woff2'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/IRAN-Sans-normal/IRANSANSExpanded.woff') format('woff');
+}
+@font-face {
+  font-family: 'Yekan';
+  font-weight: normal;
+src: url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/WebYekan/WebYekan.eot?#') format('eot'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/WebYekan/WebYekan.svg') format('woff2'), 
+	 url('http://iranshutterstock.ir/wp-content/themes/sahifa/fonts/WebYekan/WebYekan.woff') format('woff');
+}
+
+#menu-top-menu li{
+    border-right:1px solid #A9A9A9;
+    padding:0 5px;
+}
+#menu-top-menu li:last-child{
+    border-left:1px solid #A9A9A9;
+}
+.top-nav ul ul li a {
+    font-family: iransans , tahoma;
+    font-size:11px;
+    border-top:1px solid #ddd;
+}
+.widget-container li{
+    font-family: iransans;
+    font-size:11px;
+}
+
+
